@@ -4,3 +4,4 @@ console.log("Another commit");
 console.log("commiting..");
 console.log("rishabh");
 console.log("adding data");
+console.log("namaste");
